@@ -1,6 +1,6 @@
 # melody
-##learn poject
-###technology:
+learn poject
+technology:
 - html
 - css
 - javascript
